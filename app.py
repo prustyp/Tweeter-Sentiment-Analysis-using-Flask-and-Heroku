@@ -32,10 +32,10 @@ def predict():
     '''
         Obtain your Credentials from Your Twitter's developer account and assign to them to the variables
     '''
-    consumerKey = "5M5finCD4HHI0u0H9ZHnAPkT8"
-    consumerSecret = "ZKT0p6nZ5XLlCzXcjUiCkPcvsAkDYhtvx0yLy2q46JlDpCzGLJ"
-    accessToken = "1301919368540905473-hHoBo1LnkXREMuQsdeJM4ZdDVAHs1T"
-    accessTokenSecret = "7lYd2siNOR9HyQaDp3iJJFggRQVVHKvFtf6IZ6FND7uhu"
+    consumerKey = "**************"
+    consumerSecret = "********************"
+    accessToken = "**************************"
+    accessTokenSecret = "********************************"
 
     '''
         Obtain authorization access to twitter's api by writing the folowing code
